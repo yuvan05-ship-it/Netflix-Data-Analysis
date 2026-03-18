@@ -1,26 +1,32 @@
 # 🎬 Netflix Data Analysis
 
 ## 📌 Objective
-Analyze Netflix dataset to uncover trends in movies, TV shows, genres, and countries.
+Analyze Netflix dataset to discover trends in movies, TV shows, genres, and countries.
 
 ## 🛠 Tools Used
 - Python (Pandas, Matplotlib)
 - SQL
 - Jupyter Notebook
 
+## 🔄 Process
+- Data Cleaning (handled missing values, duplicates)
+- Feature Engineering (duration extraction, genre splitting)
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+
 ## 📊 Key Insights
 - Movies dominate Netflix content
-- USA produces the most content
-- Content increased rapidly after 2015
+- USA produces the highest number of titles
+- Content growth increased rapidly after 2015
 - Drama is the most common genre
 
 ## 📸 Visualizations
 
-### Movies vs TV Shows
-![Movies vs TV](screenshots/movies_vs_tv_visualization.png)
+### 📺 Movies vs TV Shows
+![Movies vs TV](screenshots/movies_vs_tv.png)
 
-### Content Added Over Years
-![Trend](screenshots/Content _Added _Years visualization.png)
+### 📅 Content Added Over Years
+![Trend](screenshots/content_added_years.png)
 
-### Top Genres
-![Genres](screenshots/Top 10 Genres visualization.png)
+### 🎭 Top Genres
+![Genres](screenshots/top_genres.png)
