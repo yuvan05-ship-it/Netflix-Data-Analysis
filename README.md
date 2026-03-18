@@ -1,12 +1,16 @@
-# 🎬 Netflix Data Analysis
-
-## 📌 Objective
-Analyze Netflix dataset to discover trends in movies, TV shows, genres, and countries.
+# 📊 Netflix Data Analysis
+This project performs Exploratory Data Analysis (EDA) on Netflix Movies and TV Shows dataset to uncover trends, patterns, and insights using Python.
 
 ## 🛠 Tools Used
 - Python (Pandas, Matplotlib)
 - SQL
 - Jupyter Notebook
+  
+## 🛠️ Skills Demonstrated
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Python (Pandas, Matplotlib, Seaborn)
 
 ## 🔄 Process
 - Data Cleaning (handled missing values, duplicates)
@@ -14,11 +18,11 @@ Analyze Netflix dataset to discover trends in movies, TV shows, genres, and coun
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 
-## 📊 Key Insights
-- Movies dominate Netflix content
-- USA produces the highest number of titles
-- Content growth increased rapidly after 2015
-- Drama is the most common genre
+## 🔍 Key Insights
+- 📌 Majority of content on Netflix are Movies
+- 📌 USA produces the highest number of titles
+- 📌 Significant growth in content after 2015
+- 📌 TV Shows are increasing in recent years
 
 ## 📸 Visualizations
 
