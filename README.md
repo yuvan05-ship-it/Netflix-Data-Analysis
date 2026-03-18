@@ -26,7 +26,7 @@ Analyze Netflix dataset to discover trends in movies, TV shows, genres, and coun
 ![Movies vs TV](screenshots/movies_vs_tv_visualization.png)
 
 ### 📅 Content Added Over Years
-![Trend](screenshots/content_added_years.png)
+![Trend](screenshots/Content_Added_Years_visualization.png)
 
 ### 🎭 Top Genres
 ![Genres](screenshots/top_genres.png)
