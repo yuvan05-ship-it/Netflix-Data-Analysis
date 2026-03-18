@@ -17,10 +17,10 @@ Analyze Netflix dataset to uncover trends in movies, TV shows, genres, and count
 ## 📸 Visualizations
 
 ### Movies vs TV Shows
-![Movies vs TV](screenshots/movies_vs_tv.png)
+![Movies vs TV]()
 
 ### Content Added Over Years
-![Trend](screenshots/content_added_years.png)
+![Trend](screenshots/Content _Added _Years visualization.png)
 
 ### Top Genres
 ![Genres](screenshots/top_genres.png)
